@@ -1,0 +1,14 @@
+#  Protecting M365 from on-premis attacks
+
+* Many customers connect their private corporate networks to Microsoft 365 to benefit their users, devices, and applications. 
+
+However, there are many well-documented ways these private networks can be compromised. 
+
+As we have seen in recent events related to the SolarWinds compromise, on-premises compromise can propagate to the cloud. 
+
+Because Microsoft 365 acts as the “nervous system” for many organizations, it is critical to protect it from compromised on-premises infrastructure.
+
+
+#  https://techcommunity.microsoft.com/t5/azure-active-directory-identity/protecting-microsoft-365-from-on-premises-attacks/ba-p/1751754
+
+
